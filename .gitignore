@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.venv/
+dist/
+*.zip
+private/
+personal-data/
+my-brain/
+brain.json
+00_入口/
+10_生活/
+20_工作/

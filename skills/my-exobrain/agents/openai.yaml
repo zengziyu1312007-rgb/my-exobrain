@@ -1,0 +1,4 @@
+interface:
+  display_name: "我的外脑"
+  short_description: "用真实任务初始化个人外脑，记录生活成长、工作经验与可复用方法"
+  default_prompt: "请用 $my-exobrain 帮我初始化自己的外脑，从我现在最想做成的一件事开始。"
